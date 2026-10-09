@@ -1,4 +1,4 @@
-# E-Commerce-Data-Analytics-Business-Intelligence
+# Retail Performance Intelligence & Profitability Insights
 
 
 An end-to-end data analytics project analyzing **3,500 e-commerce sales records** across **3 product categories and 4 regions** to evaluate sales trends, product performance, regional demand, and profitability.
