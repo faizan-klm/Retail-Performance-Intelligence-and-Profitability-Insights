@@ -1,13 +1,13 @@
-E-Commerce Data Analytics & Business Intelligence
+# E-Commerce-Data-Analytics-Business-Intelligence
 
 
-An end-to-end data analytics project analyzing 3,500 e-commerce sales records across 3 product categories and 4 regions to evaluate sales trends, product performance, regional demand, and profitability.
+An end-to-end data analytics project analyzing **3,500 e-commerce sales records** across **3 product categories and 4 regions** to evaluate sales trends, product performance, regional demand, and profitability.
 
 The project demonstrates a complete analytics workflow covering data understanding, data cleaning, exploratory analysis, SQL analysis, profit-margin analysis, and interactive Power BI visualization.
 
 ---
 
-Project Overview
+## Project Overview
 
 This project was developed to transform raw e-commerce transaction data into actionable business insights.
 
@@ -23,29 +23,30 @@ The analysis focuses on:
 
 ---
 
-Dataset
+## Dataset
 
-The dataset contains 3,500 sales records with the following fields:
+The dataset contains **3,500 sales records** with the following fields:
 
-Column| Description
-Order Date| Date of the order
-Product Name| Name of the product
-Category| Product category
-Region| Sales region
-Quantity| Units sold
-Sales| Sales revenue
-Profit| Profit generated
+| Column | Description |
+|---|---|
+| Order Date | Date of the order |
+| Product Name | Name of the product |
+| Category | Product category |
+| Region | Sales region |
+| Quantity | Units sold |
+| Sales | Sales revenue |
+| Profit | Profit generated |
 
 ---
 
-Tools & Technologies
+## Tools & Technologies
 
-- Excel – Data inspection and initial preparation
-- Python – Data cleaning, feature engineering and exploratory analysis
-- SQL – Aggregation and business analysis
-- Power BI – Interactive dashboard and data visualization
+- **Excel** – Data inspection and initial preparation
+- **Python** – Data cleaning, feature engineering and exploratory analysis
+- **SQL** – Aggregation and business analysis
+- **Power BI** – Interactive dashboard and data visualization
 
-Python Libraries
+### Python Libraries
 
 - Pandas
 - NumPy
@@ -55,8 +56,9 @@ Python Libraries
 
 ---
 
-Project Workflow
+## Project Workflow
 
+```text
 Raw Dataset
      ↓
 Data Understanding
@@ -74,12 +76,13 @@ Profitability Analysis
 Power BI Dashboard
      ↓
 Business Insights
+```
 
 ---
 
-Key Analysis Areas
+## Key Analysis Areas
 
-1. Sales Analysis
+### 1. Sales Analysis
 
 Analyzed sales performance across:
 
@@ -89,25 +92,25 @@ Analyzed sales performance across:
 - Regions
 - Quantity sold
 
-2. Product Analysis
+### 2. Product Analysis
 
 Evaluated individual product performance using sales, quantity and profit metrics to identify high-performing and underperforming products.
 
-3. Regional Analysis
+### 3. Regional Analysis
 
 Compared different regions to understand regional sales contribution, demand patterns and profitability.
 
-4. Profitability Analysis
+### 4. Profitability Analysis
 
 Analyzed total profit and profit margins across products, categories and regions to evaluate business performance beyond revenue.
 
 ---
 
-Power BI Dashboard
+## Power BI Dashboard
 
 The Power BI dashboard provides an interactive view of the dataset through multiple analytical perspectives.
 
-Dashboard Pages
+### Dashboard Pages
 
 - Overview
 - Sales Trends
@@ -115,32 +118,33 @@ Dashboard Pages
 - Regional Analysis
 - Profitability Analysis
 
-Dashboard Screenshots
+### Dashboard Screenshots
 
-Overview
+#### Overview
 
-"Overview" (screenshots/overview.png)
+![Overview](screenshots/overview.png)
 
-Sales Trends
+#### Sales Trends
 
-"Sales Trends" (screenshots/sales_trends.png)
+![Sales Trends](screenshots/sales_trends.png)
 
-Product Analysis
+#### Product Analysis
 
-"Product Analysis" (screenshots/product_analysis.png)
+![Product Analysis](screenshots/product_analysis.png)
 
-Regional Analysis
+#### Regional Analysis
 
-"Regional Analysis" (screenshots/regional_analysis.png)
+![Regional Analysis](screenshots/regional_analysis.png)
 
-Profitability Analysis
+#### Profitability Analysis
 
-"Profitability Analysis" (screenshots/profitability_analysis.png)
+![Profitability Analysis](screenshots/profitability_analysis.png)
 
 ---
 
-Repository Structure
+## Repository Structure
 
+```text
 E-Commerce-Sales-Profitability-Analysis/
 │
 ├── data/
@@ -172,15 +176,48 @@ E-Commerce-Sales-Profitability-Analysis/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
-How to Explore the Project
+## How to Explore the Project
 
-1. Start with the README for an overview of the project.
-2. Review the data understanding notebook to understand the dataset.
-3. Open the data cleaning notebook to review the cleaning and preparation process.
-4. Explore the EDA notebook for analytical findings.
-5. Review "analysis_queries.sql" to see the SQL analysis.
+1. Start with the **README** for an overview of the project.
+2. Review the **data understanding notebook** to understand the dataset.
+3. Open the **data cleaning notebook** to review the cleaning and preparation process.
+4. Explore the **EDA notebook** for analytical findings.
+5. Review `analysis_queries.sql` to see the SQL analysis.
 6. Open the Power BI dashboard to explore the interactive visualizations.
-7
+7. Refer to the project report for the overall analysis and conclusions.
+
+---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Preparation
+- Exploratory Data Analysis
+- Feature Engineering
+- SQL Aggregation
+- Business Analysis
+- Sales Analysis
+- Profitability Analysis
+- Data Visualization
+- Dashboard Development
+- Power BI
+- Excel
+- Python
+
+---
+
+## Project Objective
+
+The objective of this project is to demonstrate how raw transactional data can be transformed into meaningful business analysis and interactive dashboards that support data-driven decision making.
+
+---
+
+## Author
+
+**Mohammed Faizan Kaleem**
+
+Data Analyst | Excel | Power BI | SQL | Python
