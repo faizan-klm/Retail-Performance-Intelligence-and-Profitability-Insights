@@ -133,47 +133,44 @@ The interactive Power BI dashboard provides insights into overall sales performa
 
 ### 3. Regional Sales & Profitability
 
-![Regional Sales & Profitability](./screenshots/regional_sales_and_profitability.png)
+![Regional Sales & Profitability](screenshots/regional_sales_and_profitablity.png)
 
 
 
 ---
 
+
 ## Repository Structure
 
 ```text
-E-Commerce-Sales-Profitability-Analysis/
+E-Commerce-Sales-and-Profitability-Analysis/
 │
 ├── data/
-│   ├── raw/
-│   │   └── ecommerce_sales.csv
-│   └── processed/
-│       └── cleaned_ecommerce_sales.csv
+│   ├── processed/
+│   │   └── cleaned_ecommerce_sales.csv.xlsx
+│   └── raw/
+│       └── ecommerce_sales.csv.csv
 │
 ├── notebooks/
-│   ├── 01_data_understanding.ipynb
-│   ├── 02_data_cleaning.ipynb
-│   └── 03_exploratory_analysis.ipynb
-│
-├── sql/
-│   └── analysis_queries.sql
+│   └── data_understanding_and_analysis.ipynb.ipynb
 │
 ├── powerbi/
 │   └── ecommerce_sales_dashboard.pbix
 │
 ├── reports/
-│   └── project_report.pdf
+│   └── project_report.pdf.pdf
 │
 ├── screenshots/
 │   ├── overview.png
-│   ├── sales_trends.png
-│   ├── product_analysis.png
-│   ├── regional_analysis.png
-│   └── profitability_analysis.png
+│   ├── product_performance.png
+│   └── regional_sales_and_profitability.png
 │
-├── README.md
-└── requirements.txt
+├── sql/
+│   └── analysis_queries.sql
+│
+└── README.md
 ```
+
 
 ---
 
