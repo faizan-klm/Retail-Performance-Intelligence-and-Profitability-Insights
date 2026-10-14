@@ -120,25 +120,22 @@ The Power BI dashboard provides an interactive view of the dataset through multi
 
 ### Dashboard Screenshots
 
-#### Overview
+The interactive Power BI dashboard provides insights into overall sales performance, product-level analysis, and regional sales and profitability.
 
-![Overview](screenshots/overview.png)
+### 1. Sales Overview
 
-#### Sales Trends
+![Sales Overview](screenshots/overview.png)
 
-![Sales Trends](screenshots/sales_trends.png)
+### 2. Product Performance
 
-#### Product Analysis
+![Product Performance](screenshots/product_performance.png)
 
-![Product Analysis](screenshots/product_analysis.png)
 
-#### Regional Analysis
+### 3. Regional Sales & Profitability
 
-![Regional Analysis](screenshots/regional_analysis.png)
+![Regional Sales & Profitability](./screenshots/regional_sales_and_profitability.png)
 
-#### Profitability Analysis
 
-![Profitability Analysis](screenshots/profitability_analysis.png)
 
 ---
 
