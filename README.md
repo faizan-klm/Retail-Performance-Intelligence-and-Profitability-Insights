@@ -110,14 +110,6 @@ Analyzed total profit and profit margins across products, categories and regions
 
 The Power BI dashboard provides an interactive view of the dataset through multiple analytical perspectives.
 
-### Dashboard Pages
-
-- Overview
-- Sales Trends
-- Product Analysis
-- Regional Analysis
-- Profitability Analysis
-
 ### Dashboard Screenshots
 
 The interactive Power BI dashboard provides insights into overall sales performance, product-level analysis, and regional sales and profitability.
